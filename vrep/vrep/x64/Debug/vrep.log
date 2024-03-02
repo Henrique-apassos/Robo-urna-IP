@@ -1,0 +1,109 @@
+﻿  extApi.c
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(13,50): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(13,27): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(13,50): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(14,58): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(14,35): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(14,58): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(15,56): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(15,33): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(15,56): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(18,56): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(18,33): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(18,56): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(19,64): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(19,41): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(19,64): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(20,62): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(20,39): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(20,62): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(23,52): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(23,29): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(23,52): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(24,60): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(24,37): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(24,60): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(25,58): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(25,35): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(25,58): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(28,58): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(28,35): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(28,58): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(29,66): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(29,43): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(29,66): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(30,64): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(30,41): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(30,64): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(33,52): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(33,29): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(33,52): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(34,60): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(34,37): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(34,60): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(35,64): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(35,41): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(35,64): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(38,50): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(38,27): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(38,50): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(39,54): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(39,31): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(39,54): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(41,48): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(41,25): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(41,48): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(42,48): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(42,25): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(42,48): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(44,55): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(44,32): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(44,55): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(45,62): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(45,39): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(45,62): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(46,53): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(46,30): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(46,53): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(47,76): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(47,53): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(47,76): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(48,55): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(48,32): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(48,55): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(49,46): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(49,23): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(49,46): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(50,63): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(50,40): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(50,63): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(51,52): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(51,29): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(51,52): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(52,70): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(52,47): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(52,70): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(54,46): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(54,23): error C2057: esperada expressão constante
+C:\Users\thija\source\repos\vrep\vrep\extApiInternal.h(54,46): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(39,43): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(79,39): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(90,43): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(139,55): error C2065: 'SIMX_HEADER_SIZE': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(179,45): error C2065: '_communicationThread': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(179,45): warning C4047: 'função': 'simxVoid (__cdecl *)(simxVoid *)' difere em níveis de indireção de 'int'
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(179,25): warning C4024: 'extApi_launchThread': tipos diferentes para parâmetro formal e real 1
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(201,58): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(219,17): warning C4013: '_exec_int' indefinido; assumindo extern retornando int
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(219,60): error C2065: 'simx_cmd_kill_connection': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(219,80): error C2065: 'simx_opmode_oneshot': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(245,43): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(252,57): error C2065: 'simx_cmd_kill_connection': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(252,77): error C2065: 'simx_opmode_oneshot': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(260,43): error C2065: 'MAX_EXT_API_CONNECTIONS': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(305,47): error C2065: 'simx_return_timeout_flag': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(315,94): error C2065: 'simx_cmdheaderoffset_mem_size': identificador não declarado
+C:\Users\thija\source\repos\vrep\vrep\extApi.c(315,94): fatal  error C1003: contador de erros excede 100; interrompendo compilação
+  extApiPlatform.c
+C:\Users\thija\source\repos\vrep\vrep\extApiPlatform.c(6,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'shared_memory.h': No such file or directory
+  Gerando Código...
